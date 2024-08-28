@@ -16,12 +16,12 @@ except according to the terms contained in the LICENSE file.
       <span class="icon-question-circle"></span><span class="caret"></span>
     </a>
     <ul class="dropdown-menu">
-      <li>
+      <!-- <li>
         <doc-link to="central-intro/">{{ $t('common.docs') }}</doc-link>
       </li>
       <li>
         <a href="https://forum.getodk.org/" target="_blank">{{ $t('common.forum') }}</a>
-      </li>
+      </li> -->
       <li>
         <a href="/version.txt" target="_blank">{{ $t('common.version') }}</a>
       </li>
